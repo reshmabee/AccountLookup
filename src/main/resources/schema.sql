@@ -1,0 +1,1 @@
+CREATE table Account (Zip varchar, Last4CardNumber varchar, MonthYearExpiry varchar);
